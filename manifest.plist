@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.maomaomiao.doit</string>
+				<string>com.maomaomiao.project</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>小助手</string>
+				<string>猫猫喵</string>
 			</dict>
 		</dict>
 	</array>
